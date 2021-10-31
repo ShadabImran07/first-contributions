@@ -1,6 +1,7 @@
 
 # Contributors
--[ShadabImran07](https://github.com/ShadabImran07)
+
+- [ShadabImran07](https://github.com/ShadabImran07)
 - [kzack123](https://github.com/kzack123)
 - [Kegjams](https://github.com/Kegjams)
 - [Mahesh Jaganiya] (https://github.com/jagzmz)
